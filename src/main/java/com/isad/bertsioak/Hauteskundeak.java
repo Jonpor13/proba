@@ -27,6 +27,9 @@ public class Hauteskundeak {
 		h2021.gehituMahaia("Bergara");
 		h2021.gehituMahaia("Andoain");
 		h2021.gehituMahaia("aaaaaa");
+		h2021.gehituMahaia("Mets Love Forevah");
+
+
 
 		System.out.println(h2021);
 	}
